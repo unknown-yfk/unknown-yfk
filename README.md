@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknown-yfk&label=Profile%20views&color=0e75b6&style=flat" alt="unknown-yfk" /> </p>
 
+- 🔭 I’m currently working on **Pern Stack**
+
 - 🌱 I’m currently learning **TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://my-portofolio-wfl9.vercel.app/](https://my-portofolio-wfl9.vercel.app/)
