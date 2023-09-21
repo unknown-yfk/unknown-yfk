@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknown-yfk&label=Profile%20views&color=0e75b6&style=flat" alt="unknown-yfk" /> </p>
 
-- 🔭 I’m currently working on **Pern Stack**
+- 🔭 I’m currently working on **Mern Stack**
 
 - 🌱 I’m currently learning **TensorFlow**
 
